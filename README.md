@@ -5,7 +5,7 @@ During this 4-week web development project, I undertook three distinct tasks to 
 
 - **Calculator** - [Project Preview](https://calculator-kashish.netlify.app/)
 - **Landing Page for File Transfer Website** - [Project Preview](https://kashish-landingpage.netlify.app/)
-- **Portfolio** - [Project Preview](https://kashish-singh.netlify.app/)
+- **Portfolio** - [Project Preview](https://kashishsinghportfolio.netlify.app/)
 
 
 
@@ -39,7 +39,7 @@ During this 4-week web development project, I undertook three distinct tasks to 
 - **Technologies Used:** HTML for content organization, CSS for aesthetic styling, JavaScript for interactive elements.
 - **Outcome:** Designed and developed a professional portfolio that highlights my projects, skills, and achievements, ensuring a responsive and user-friendly experience.
 
-**Click Here To See  -->** [Project Preview](https://kashish-singh.netlify.app/)
+**Click Here To See  -->** [Project Preview](https://kashishsinghportfolio.netlify.app/)
 
 ![Portfolio Screenshot](https://github.com/kashish-singh/NextGenDev/blob/main/Portfolio/Screenshot%202024-07-19%20102736.png?raw=true)
 
